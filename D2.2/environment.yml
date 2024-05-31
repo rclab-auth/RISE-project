@@ -1,0 +1,6 @@
+channels:
+- pip
+dependencies:
+- fmpy
+- numpy
+- openseespy
